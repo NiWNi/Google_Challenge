@@ -1,0 +1,61 @@
+article {
+    text-align: justify;
+    font-family: Verdana, Tahoma, sans-serif;
+    position: relative;
+    width: 400px;
+    position: relative;
+    margin: auto;
+    margin-top: 50px;
+    font-size: 12px;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: white;
+    padding: 20px 20px 20px 20px;
+}
+
+h1 {
+    font-size: 24px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.beaware {
+    font-size: 10px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+.picture {
+    border-radius:10px;
+    width: 300px;
+    height: 200p;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+.text {
+    padding-right: 1000px;
+    padding-left: 50px;
+}
+
+.ulintroduction {
+    font-weight: bold;
+    text-align: center;
+    width: 200px;
+}
+
+.span2 {
+    text-align: center;
+
+}
+
+ul {
+    list-style-type: none;
+    padding: 10px;
+}
+
+footer {
+    font: 10px italic;
+}
